@@ -30,8 +30,8 @@ A role-based support ticket management system built with Node.js, Express, and M
 1. **Clone the Repository**
 
 ```bash
- git clone https://github.com/ritikrathod23/ticket-management-backend.git
-cd ticket-management-backend
+ git clone https://github.com/ritikrathod23/ticket-management-system.git
+cd ticket-management-system
 ```
 **Install Dependencies**
 ```bash
